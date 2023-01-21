@@ -35,6 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos para você controlar / monitorar a evolução de seus habitos diários
 
+- [Visite o projeto online](https://ricardopotiguar.github.io/nlw-setup)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/xuWettucHQFtdqH1gsA4Ib/Habits-(e)-(Community)?node-id=6%3A910&t=n4vXydegphT5GWSd-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
